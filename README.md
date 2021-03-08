@@ -1,3 +1,3 @@
 # just some html, css, & cs that looks like an old bios just for fun
 
-![](/tictactoe.gif)
+![](/bios.gif)
