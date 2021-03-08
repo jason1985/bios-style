@@ -1,3 +1,3 @@
-# just some html & css that looks like an old bios
+# just some html, css, & cs that looks like an old bios just for fun
 
-## todo: add javascript & make it interactive
+![](/tictactoe.gif)
